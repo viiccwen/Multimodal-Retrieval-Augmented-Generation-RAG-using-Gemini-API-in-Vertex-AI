@@ -1,0 +1,1 @@
+# Multimodal-Retrieval-Augmented-Generation-RAG-using-Gemini-API-in-Vertex-AI
